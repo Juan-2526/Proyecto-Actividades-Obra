@@ -26,7 +26,7 @@ Esto permite llevar un registro simple y ordenado de un avance de obra.
 
 Para realizar la clonación del repositorio en un equipo local, se debe utilizar el siguient comando en Git:
 
-git clone http://github/Juan-2526/ProyectoActividadesObra.git
+git clone https://github.com/Juan-2526/Proyecto-Actividades-Obra.git
 
 ## Contribución en el proyecto
 
