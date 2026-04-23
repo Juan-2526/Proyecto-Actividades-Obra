@@ -1,5 +1,6 @@
 Actividad 1 : Descapote - Cumplido
-Actividad 2 : Cimentación - En proceso
-Actividad 3 : Estructura piso 1 - Pendiente
+Actividad 2 : Cimentación - Cumplido
+Actividad 3 : Estructura piso 1 - En proceso
 Actividad 4 : Mampostería - Pendiente
 Actividad 5: Instalaciones Eléctricas - Pendiente
+Actividad 6: Instalaciones Hidrosanitarias - Pendiente
